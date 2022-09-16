@@ -1,0 +1,15 @@
+[package]
+name = "pi_futures"
+version = "0.1.0"
+authors = ["suncy <suncy@gmail.com>"]
+edition = "2021"
+description = "feature select"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["pi", "features"]
+repository = "https://github.com/GaiaWorld/pi_features"
+
+[features]
+local = []
+
+
